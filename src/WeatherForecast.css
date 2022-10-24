@@ -6,3 +6,12 @@
     opacity: 0.6;
     margin-left: 5px;
 }
+
+.day-item:hover {
+    box-shadow: 3px 3px 10px #D9D9D9;
+}
+
+.day-item {
+    transition: all 0.25s ease-out;
+    border-radius: 5px;
+}
